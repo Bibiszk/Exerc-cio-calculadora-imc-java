@@ -50,6 +50,7 @@ Execute o programa:
 
 java CalculadoraIMC
 🛠️ Tecnologias utilizadas
+
 Java 17+
 
 VS Code
