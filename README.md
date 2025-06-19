@@ -1,4 +1,4 @@
-# Exerc-cio-calculadora-imc-java
+# Exercício-calculadora-imc-java
 
 # 🧮 Calculadora de IMC em Java
 
