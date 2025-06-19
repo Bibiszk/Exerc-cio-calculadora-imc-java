@@ -59,8 +59,10 @@ VS Code
 Git e GitHub
 
 ✍️ Autor
+
 Feito com dedicação por Bianca Brito 💙
 Bootcamp Santander Backend Java 2025 | DIO
 
 📌 Licença
+
 Este projeto é de uso educacional, livre para estudo e aperfeiçoamento pessoal.
